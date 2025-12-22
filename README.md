@@ -22,14 +22,8 @@ The dataset contains housing information for districts in California, including:
 - Housing characteristics (total rooms, bedrooms, households)
 - Demographics (population, median income)
 - Proximity to the ocean (categorical feature)
-
 The target variable is median house value
-
-The following files are included:
 - `housing.csv` — full raw dataset
-- `housing_train.csv` — training features
-- `housing_test.csv` — test features
-- `housing_test_y.csv` — test labels
 
 ---
 
